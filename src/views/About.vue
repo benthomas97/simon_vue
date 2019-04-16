@@ -2,7 +2,8 @@
   <div class="about">
     <h1>Welcome to my clone of <i>Simon</i></h1>
 		<p><i>Simon</i> was originally an electronic game that challenged the user's memory.<br/>
-		This version of <i>Simon</i> was built using Vue Cli.</p>
+		This version of <i>Simon</i> was built using Vue Cli. <br/>
+		Please login or register to save your own personal high scores.</p>
 		<div>
 			<p>Rules:</p>
 			<ol>
