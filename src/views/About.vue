@@ -12,7 +12,5 @@
 				<li>If you try to enter the pattern while it plays, the game will restart.</li>
 			</ol>
 		</div>
-		<br/><br/>
-		<p>Click <a href="https://github.com/benthomas97/simon_vue" target="_blank">here</a> to view my code on Github</p>
   </div>
 </template>

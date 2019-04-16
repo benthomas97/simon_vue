@@ -24,7 +24,7 @@
 		<section class="scoreboard">
 			<h2>High scores:</h2>
 			<div class="score" v-for="entry in scores" v-bind:key="entry.name">
-				{{entry.score}} - {{entry.name}}
+				{{entry.score}} - {{entry.username}}
 			</div>
 		</section>
 
